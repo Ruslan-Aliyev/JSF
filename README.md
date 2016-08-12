@@ -8,7 +8,7 @@
 
 ## Results
 
-![](jsf.PNG)
+![](https://raw.githubusercontent.com/Ruslan-Aliyev/JSF/master/Illustrations/jsf.PNG)
 
 ## Code 
 
